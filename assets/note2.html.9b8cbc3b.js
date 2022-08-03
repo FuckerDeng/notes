@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,a as e,b as n}from"./app.dca95584.js";const s={},r=e("h3",{id:"note2-test",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#note2-test","aria-hidden":"true"},"#"),n(" note2 test")],-1),c=[r];function _(d,i){return a(),o("div",null,c)}var l=t(s,[["render",_],["__file","note2.html.vue"]]);export{l as default};
